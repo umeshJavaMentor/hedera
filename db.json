@@ -1,0 +1,60 @@
+{
+    "devices": [
+      {
+        "serialNo": 123,
+        "batchNo": 123,
+        "manufactureDate": "08/28/2020",
+        "didStatus": "Pending",
+        "vcStatus": "PENDING"
+      },
+      {
+        "serialNo": 456,
+        "batchNo": 456,
+        "manufactureDate": "08/27/2020",
+        "didStatus": "Pending",
+        "vcStatus": "PENDING"
+      },
+      {
+        "serialNo": 789,
+        "batchNo": 789,
+        "manufactureDate": "08/26/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "PENDING"
+      },
+      {
+        "serialNo": 321,
+        "batchNo": 321,
+        "manufactureDate": "07/28/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "PENDING"
+      },
+      {
+        "serialNo": 654,
+        "batchNo": 654,
+        "manufactureDate": "07/27/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "ISSUED TO DEVICE"
+      },
+      {
+        "serialNo": 987,
+        "batchNo": 987,
+        "manufactureDate": "06/20/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "ISSUED TO DEVICE"
+      },
+      {
+        "serialNo": 234,
+        "batchNo": 234,
+        "manufactureDate": "06/20/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "ISSUED TO HEDERA N/W"
+      },
+      {
+        "serialNo": 567,
+        "batchNo": 567,
+        "manufactureDate": "06/20/2020",
+        "didStatus": "CREATED",
+        "vcStatus": "ISSUED TO HEDERA N/W"
+      }
+    ]
+  }
